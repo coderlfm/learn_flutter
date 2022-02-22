@@ -1,0 +1,56 @@
+{
+  "comment": "",
+  "rating": {
+    "count": 86144,
+    "max": 10,
+    "star_count": 4,
+    "value": 8.4
+  },
+  "controversy_reason": "",
+  "pic": {
+    "large": "https://img1.doubanio.com%5C/view%5C/photo%5C/m_ratio_poster%5C/public%5C/p2702755317.jpg",
+    "normal": "https://img1.doubanio.com%5C/view%5C/photo%5C/s_ratio_poster%5C/public%5C/p2702755317.jpg"
+  },
+  "rank": 1,
+  "uri": "douban:%5C/%5C/douban.com%5C/movie%5C/35144311",
+  "is_show": false,
+  "vendor_icons": [],
+  "card_subtitle": "2021 %5C/ 中国大陆 %5C/ 剧情 喜剧 动画 %5C/ 孙海鹏 %5C/ 大昕 大雄",
+  "id": "35144311",
+  "title": "雄狮少年",
+  "has_linewatch": false,
+  "is_released": true,
+  "interest": null,
+  "color_scheme": {
+    "is_dark": true,
+    "primary_color_light": "a55543",
+    "_base_color": [0.030303030303030293, 0.5923076923076922, 0.5098039215686274],
+    "secondary_color": "f9f5f4",
+    "_avg_color": [0.04838709677419356, 0.4335664335664336, 0.5607843137254902],
+    "primary_color_dark": "7f4133"
+  },
+  "type": "movie",
+  "description": "",
+  "tags": [],
+  "cover_url": "https://img1.doubanio.com%5C/view%5C/photo%5C/m_ratio_poster%5C/public%5C/p2702755317.jpg",
+  "photos": [
+    "https://img2.doubanio.com%5C/view%5C/photo%5C/m%5C/public%5C/p2780689412.jpg",
+    "https://img1.doubanio.com%5C/view%5C/photo%5C/m%5C/public%5C/p2789337487.jpg",
+    "https://img2.doubanio.com%5C/view%5C/photo%5C/m%5C/public%5C/p2780614881.jpg",
+    "https://img9.doubanio.com%5C/view%5C/photo%5C/m%5C/public%5C/p2773366945.jpg"
+  ],
+  "actions": ["可购票"],
+  "sharing_url": "https:%5C/%5C/movie.douban.com%5C/subject%5C/35144311%5C/",
+  "url": "https:%5C/%5C/movie.douban.com%5C/subject%5C/35144311%5C/",
+  "honor_infos": [
+    {
+      "kind": "rank",
+      "uri": "douban:%5C/%5C/douban.com%5C/subject_collection%5C/ECPE465QY?type=rank%26category=movie%26rank_type=film_genre",
+      "rank": 2,
+      "title": "近期热门电影榜"
+    }
+  ],
+  "good_rating_stats": 0,
+  "subtype": "movie",
+  "null_rating_reason": ""
+}

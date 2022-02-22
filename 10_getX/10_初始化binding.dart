@@ -1,0 +1,1 @@
+在GetMaterialApp 的 initialBinding 写上 App 的 binding ，在这 App 的binding 给四个页面注入put才能给IndexdStack 初始化，因为getx是通过路由来初始化的
